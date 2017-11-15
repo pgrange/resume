@@ -7,8 +7,8 @@ Expérience professionnelle
 ### Depuis juillet 2014 : Responsable de centre de compétence plate-forme
 *Orange Business Services — Orange Applications for Business*
 
-Management, gestion du recrutement et des compétences d'une équipe de
-5 ingénieurs système et réseau et 1 chef de projet
+Management fonctionnel et hiérarchique, gestion du recrutement et des
+compétences d'une équipe de 5 ingénieurs système et réseau et 1 chef de projet
 > agilité, lean-thinking, standards, ateliers de partage technique
 
 Accompagnement au changement pour évoluer d'une culture *administration système
@@ -16,8 +16,9 @@ Accompagnement au changement pour évoluer d'une culture *administration systèm
 > ansible, docker, développement guidé par les tests, git, gitlab-ci,
 > pair-programming, mob-programming
 
-Responsable de la construction puis de la qualité de service et de la sécurité
-en production de plusieurs plate-formes client :
+Responsable de la conception, du chifrage, de la construction puis de la
+qualité de service et de la sécurité en production de plusieurs plate-formes
+client :
 * plate-forme d'authentification Mobile Connect multi-pays
 * service de chiffrement mutualisé *HSM as as Service*
 * site e-commerce (C.A. client supérieur à 150 M€)
@@ -81,8 +82,6 @@ propositions commerciales
 * Mise en place de spécifications exécutables (plus de 3500 assertions)
 * Conception et développement d'une bibliothèque javascript pour la construction
   de trames STUR pour le *Réseau Intelligent*
-* Contribution au player flash open source développé en haxe, *wavplayer*, de
-  lecture de fichier son aux formats téléphonie
 * Encadrement d'un stage de développement d'un interpréteur voiceXML pour les
   tests disponible sous licence GPL : http://bit.ly/2xFOp30
 > Java, Javascript, python, 
@@ -99,15 +98,16 @@ Autres projets :
 * Développement java pour plate-forme SMS
 
 ### Septembre 1999 — Août 2005 : Enseignant dans le supérieur
-*ENSEIRB, classée 11iéme/150 meilleure grande école par le magazine Challenge
-du 8 juin 2006*\
-*Université Bordeaux 1, classée 1ére/88 universités les plus productives de
-France par le magazine *Vie Universitaire* de mars 2003*\
+Attaché temporaire d'enseignement et de recherche \
+*École Nationale Supérieure d'Électronique, Informatique, Télécommunications de
+Bordeaux (ENSEIRB)*
+
+Moniteur de l'enseignement supérieur\
+*Université Bordeaux 1*
+
+Enseignant vacataire\
 *IUT Bordeaux 1*
 
-Attaché temporaire d'enseignement et de recherche \
-Moniteur de l'enseignement supérieur \
-Enseignant vacataire
 
 Formation
 ---------
