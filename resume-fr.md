@@ -35,16 +35,17 @@ Gestion fréquente d'audits de sécurité, formalisation des réponses et suivi 
 contre-mesures éventuelles
 
 Responsable de la conception, du chifrage, de la construction puis de la
-qualité de service et de la sécurité en production de plusieurs plate-formes
-client :
+qualité de service, de la sécurité en production et de la rentabilité de
+plusieurs plate-formes client :
 
-* plate-forme d'authentification Mobile Connect multi-pays
-* service de chiffrement mutualisé *HSM as as Service*
-* site e-commerce (C.A. client supérieur à 150 M€)
+* plate-forme d'authentification web via le mobile multi-pays — *Mobile Connect*
+* service de chiffrement mutualisé — *Hardware Security Module as as Service*
+* site e-commerce — C.A. client supérieur à 150 M€
 
 > debian, ha-proxy, varnish, apache, tomcat, hybris,
 > mysql, oracle\
-> équipements cryptographiques HSM ncipher
+> mise à jour de sécurité automatisées, équipements cryptographiques HSM ncipher
+
 
 ### Octobre 2011 – Juin 2014 : Manager Build plate-formes vocales et sans contact
 
