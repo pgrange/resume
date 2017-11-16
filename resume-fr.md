@@ -1,14 +1,36 @@
 Pascal Grange
 =============
 
----
+Management agile d'experts technique
 
 > <email> phone number \
 > postal address
 
-Management agile d'experts technique
-
 ---
+
+Participation régulière et orateur à des conférences dans le domaine de
+l'agilité dont :
+
+* *à la chasse aux faux semblants* — [http://bit.ly/2yknfeT](http://bit.ly/2yknfeT)
+* *développement guidé par les tests de rôles ansible* — [http://bit.ly/2yniVOa](http://bit.ly/2yniVOa)
+
+Responsable de plusieurs projets *open-source* dont :
+
+* bash unit testing enterprise edition framework for professionals —
+  [http://bit.ly/2hH4v1p](http://bit.ly/2hH4v1p)
+* SOAP client/server API for Java until SOAP is deprecated —
+  [http://bit.ly/2hH4v1p](http://bit.ly/2hH4v1p)
+
+Contribution sur divers projets open-source dont :
+
+* ansible — prise en charge de fichiers *spéciaux* dans un conteneur docker —
+  [http://bit.ly/2znHdp8](http://bit.ly/2znHdp8)
+
+Co-traducteur de *The Java Programming Language*,
+K. Arnolds, J. Gosling et D. Holmes, *Addison-Wesley Publishing Company*, 2000
+
+Anglais : rédaction d'ouvrages techniques, présentations en conférence,
+conversations clients
 
 Expérience professionnelle
 --------------------------
@@ -45,7 +67,8 @@ plusieurs plate-formes client :
 
 > debian, ha-proxy, varnish, apache, tomcat, hybris, mysql, oracle\
 > déploiement continue, mise à jour de sécurité automatisées,
-> équipements cryptographiques HSM ncipher
+> équipements cryptographiques HSM ncipher\
+> communication écrite et orale en anglais
 
 
 ### Octobre 2011 – Juin 2014 : Manager Build plate-formes vocales et sans contact
@@ -138,32 +161,5 @@ Formation
 2008 — Certifié *Scrum master* — Pyxis
 
 2005 — Docteur en informatique — *Systèmes distribués :
-transparence, masquage et outils associés* — Université Bordeaux 1,
-Mention Trés honorable
-
-Divers
-------
-
-Participation régulière et orateur à des conférences dans le domaine de
-l'agilité :
-
-* *à la chasse aux faux semblants* — [http://bit.ly/2yknfeT](http://bit.ly/2yknfeT)
-* *développement guidé par les tests de rôles ansible* — [http://bit.ly/2yniVOa](http://bit.ly/2yniVOa)
-
-Responsable de plusieurs projets *open-source* dont :
-
-* bash unit testing enterprise edition framework for professionals —
-  [http://bit.ly/2hH4v1p](http://bit.ly/2hH4v1p)
-* SOAP client/server API for Java until SOAP is deprecated —
-  [http://bit.ly/2hH4v1p](http://bit.ly/2hH4v1p)
-* cudl interpréteur *vxml* pour les tests — [http://bit.ly/2xFOp30](http://bit.ly/2xFOp30)
-
-Contribution sur divers projets open-source dont :
-
-* ansible — prise en charge de fichiers *spéciaux* dans un conteneur docker —
-  [http://bit.ly/2znHdp8](http://bit.ly/2znHdp8)
-
-Co-traducteur de *The Java Programming Language*,
-K. Arnolds, J. Gosling et D. Holmes, *Addison-Wesley Publishing Company*, 2000
-
-Bricoleur du dimanche
+transparence, masquage et outils associés*\
+Université Bordeaux 1, Mention Trés honorable
