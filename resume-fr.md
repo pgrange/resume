@@ -11,20 +11,20 @@ Management agile d'experts technique
 Participation régulière et orateur à des conférences dans le domaine de
 l'agilité dont :
 
-* *à la chasse aux faux semblants* — [http://bit.ly/2yknfeT](http://bit.ly/2yknfeT)
-* *développement guidé par les tests de rôles ansible* — [http://bit.ly/2yniVOa](http://bit.ly/2yniVOa)
+* *à la chasse aux faux semblants* — [http://youtu.be/SABiM46u5_k](http://youtu.be/SABiM46u5_k)
+* *développement guidé par les tests de rôles ansible* — [http://bit.ly/ansibletdd](http://bit.ly/ansibletdd)
 
 Responsable de plusieurs projets *open-source* dont :
 
 * bash unit testing enterprise edition framework for professionals —
-  [http://bit.ly/2hH4v1p](http://bit.ly/2hH4v1p)
+  [http://bit.ly/bash_unit](http://bit.ly/bash_unit)
 * SOAP client/server API for Java until SOAP is deprecated —
-  [http://bit.ly/2hH4v1p](http://bit.ly/2hH4v1p)
+  [http://bit.ly/soapdust](http://bit.ly/soapdust)
 
 Contribution sur divers projets open-source dont :
 
 * ansible — prise en charge de fichiers *spéciaux* dans un conteneur docker —
-  [http://bit.ly/2znHdp8](http://bit.ly/2znHdp8)
+  [http://bit.ly/ansible17405](http://bit.ly/ansible17405)
 
 Co-traducteur de *The Java Programming Language*,
 K. Arnolds, J. Gosling et D. Holmes, *Addison-Wesley Publishing Company*, 2000
@@ -128,7 +128,7 @@ d'Orange :
 * Conception et développement d'une bibliothèque javascript pour la construction
   de trames STUR pour le *Réseau Intelligent*
 * Encadrement d'un stage de développement d'un interpréteur voiceXML pour les
-  tests disponible sous licence GPL : [http://bit.ly/2xFOp30](http://bit.ly/2xFOp30)
+  tests disponible sous licence GPL : [http://bit.ly/cudlvxml](http://bit.ly/cudlvxml)
 
 > Java, Javascript, python, 
 > Voice XML, FitNesse
