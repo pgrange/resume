@@ -6,7 +6,7 @@ Pascal Grange
 > <email> phone number \
 > postal address
 
-Management agile — logiciel libre
+Management agile d'experts technique
 
 ---
 
@@ -20,7 +20,8 @@ Management fonctionnel et hiérarchique, gestion du recrutement et des
 compétences d'une équipe de cinq ingénieurs système et réseau et d'un chef de
 projet
 
-> agilité, lean-thinking, standards, ateliers de partage technique
+> agilité, lean-thinking, standards, ateliers de partage technique, facilitation\
+> cartographie des compétences, accompagnement individuel
 
 Accompagnement au changement pour évoluer d'une culture *administration système
 à la main* vers une culture *devops* et *infrastructure as code*
@@ -42,9 +43,9 @@ plusieurs plate-formes client :
 * service de chiffrement mutualisé — *Hardware Security Module as a Service*
 * site e-commerce — C.A. client supérieur à 150 M€
 
-> debian, ha-proxy, varnish, apache, tomcat, hybris,
-> mysql, oracle\
-> mise à jour de sécurité automatisées, équipements cryptographiques HSM ncipher
+> debian, ha-proxy, varnish, apache, tomcat, hybris, mysql, oracle\
+> déploiement continue, mise à jour de sécurité automatisées,
+> équipements cryptographiques HSM ncipher
 
 
 ### Octobre 2011 – Juin 2014 : Manager Build plate-formes vocales et sans contact
