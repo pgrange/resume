@@ -7,7 +7,7 @@ body {
     width: 800px;
     margin: auto;
     background: #FFFFFF;
-    padding: 10px 10px 10px 10px;
+    padding: 0px 10px 10px 10px;
 }
 
 /* Title of the resume */
@@ -16,11 +16,14 @@ h1 {
     color: #757575;
     text-align:right;
     margin-bottom:15px;
+    margin-top: 0;
 }
 
 /* Titles of categories */
 h2 {
     color: #FF7417;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 /* There is a bar just before each category */
 h2:before {

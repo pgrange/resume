@@ -1,6 +1,15 @@
 Pascal Grange
 =============
 
+---
+
+> <email> phone number \
+> postal address
+
+Management agile — logiciel libre
+
+---
+
 Expérience professionnelle
 --------------------------
 
@@ -8,7 +17,8 @@ Expérience professionnelle
     Orange Business Services — Orange Applications for Business
 
 Management fonctionnel et hiérarchique, gestion du recrutement et des
-compétences d'une équipe de cinq ingénieurs système et réseau et d'un chef de projet
+compétences d'une équipe de cinq ingénieurs système et réseau et d'un chef de
+projet
 
 > agilité, lean-thinking, standards, ateliers de partage technique
 
@@ -77,8 +87,6 @@ propositions commerciales
 * Développement de l'application embarquée sur la SIM
 * Recherche de partenaire et gestion de la sous-traitance pour une partie de la
   midlet J2ME
-* Mise au point d'outillages pour le développement guidé par les tests
-  d'applications javacard
 
 > javacard, NFC, SIM, OTA,
 > développement guidé par les tests\
@@ -102,7 +110,6 @@ propositions commerciales
 
 * Introduction du développement guidé par les tests au sein de l'équipe
 * Conception et développement d'un outil de test de recette automatisé
-* Mise en place de l'intégration continue
 
 Autres projets :
 
@@ -110,9 +117,7 @@ Autres projets :
 * Développement java pour plate-forme SMS
 
 ### Septembre 1999 — Août 2005 : Enseignant dans le supérieur
-    ENSEIRB
-    Université Bordeaux 1
-    IUT Bordeaux 1
+    ENSEIRB — Université Bordeaux 1 — IUT Bordeaux 1
 
 
 Formation
@@ -129,11 +134,8 @@ Formation
 2008 — Certifié *Scrum master* — Pyxis
 
 2005 — Docteur en informatique — *Systèmes distribués :
-transparence, masquage et outils associés* — Université Bordeaux 1, Mention Trés honorable
-
-2000 — DEA informatique — Université Bordeaux 1, Mention Bien (bourse au mérite)
-
-1999 — Maîtrise Informatique — Université Bordeaux 1, Mention Bien (2e sur 93)
+transparence, masquage et outils associés* — Université Bordeaux 1,
+Mention Trés honorable
 
 Divers
 ------
@@ -143,11 +145,6 @@ l'agilité :
 
 * *à la chasse aux faux semblants* — [http://bit.ly/2yknfeT](http://bit.ly/2yknfeT)
 * *développement guidé par les tests de rôles ansible* — [http://bit.ly/2yniVOa](http://bit.ly/2yniVOa)
-
-Membre de l'association Okiwi depuis 2011
-
-* communauté d'informaticiens bordelais
-* *dojos* de programmation
 
 Responsable de plusieurs projets *open-source* dont :
 
@@ -166,7 +163,3 @@ Co-traducteur de *The Java Programming Language*,
 K. Arnolds, J. Gosling et D. Holmes, *Addison-Wesley Publishing Company*, 2000
 
 Bricoleur du dimanche
-
-----
-> <email> phone number \
-> postal address
