@@ -34,12 +34,12 @@ Collaboration avec des équipes de développement internes ou chez le client
 Gestion fréquente d'audits de sécurité, formalisation des réponses et suivi des
 contre-mesures éventuelles
 
-Responsable de la conception, du chifrage, de la construction puis de la
+Responsable de la conception, du chiffrage, de la construction puis de la
 qualité de service, de la sécurité en production et de la rentabilité de
 plusieurs plate-formes client :
 
 * plate-forme d'authentification web via le mobile multi-pays — *Mobile Connect*
-* service de chiffrement mutualisé — *Hardware Security Module as as Service*
+* service de chiffrement mutualisé — *Hardware Security Module as a Service*
 * site e-commerce — C.A. client supérieur à 150 M€
 
 > debian, ha-proxy, varnish, apache, tomcat, hybris,
@@ -153,8 +153,8 @@ Responsable de plusieurs projets *open-source* dont :
 
 * bash unit testing enterprise edition framework for professionals —
   [http://bit.ly/2hH4v1p](http://bit.ly/2hH4v1p)
-* SOAP client/server API for Java until SOAP is deprecated.
-  Fits within a single jar file — [http://bit.ly/2hH4v1p](http://bit.ly/2hH4v1p)
+* SOAP client/server API for Java until SOAP is deprecated —
+  [http://bit.ly/2hH4v1p](http://bit.ly/2hH4v1p)
 * cudl interpréteur *vxml* pour les tests — [http://bit.ly/2xFOp30](http://bit.ly/2xFOp30)
 
 Contribution sur divers projets open-source dont :
