@@ -13,7 +13,7 @@ Management agile — logiciel libre
 Expérience professionnelle
 --------------------------
 
-### Depuis juillet 2014 : Responsable de centre de compétence plate-forme
+### Depuis juillet 2014 : Responsable de centre de compétence plate-forme web
     Orange Business Services — Orange Applications for Business
 
 Management fonctionnel et hiérarchique, gestion du recrutement et des
