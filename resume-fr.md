@@ -46,7 +46,8 @@ client :
 > mysql, oracle\
 > équipements cryptographiques HSM ncipher
 
-### Octobre 2011 – Juin 2014 : Manager Build plate-formes vocales et NFC
+### Octobre 2011 – Juin 2014 : Manager Build plate-formes vocales et sans contact
+
     Orange Business Services — Multimedia Business Services
 
 Management, gestion du recrutement et des compétences d'une équipe de
@@ -56,7 +57,7 @@ quatre ingénieurs système et réseau
 > formalisation des standards de travail
 
 Responsable de la construction puis de la qualité de service et de la sécurité
-en production d'une infrastructure de paiement NFC sur mobile
+en production d'une infrastructure de paiement sans contact sur mobile
 
 > certification Mastercard,
 > HSM payshield,
@@ -78,7 +79,8 @@ mise en place de plusieurs infrastructures d'intégration continue ;
 animation d'équipes, pilotage de projets et rédaction de
 propositions commerciales
 
-2011 — Contrôle d'accès NFC au bâtiment de la direction générale d'Orange :
+2011 — Contrôle d'accès sans contact au bâtiment de la direction générale
+d'Orange :
 
 * Spécification du protocole d'échange entre les bornes d'accès et
   l'application SIM
