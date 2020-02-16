@@ -35,7 +35,29 @@ conversations clients
 Expérience professionnelle
 --------------------------
 
-### Depuis juillet 2014 : Responsable de centre de compétence plate-forme web
+### Depuis mars 2018 : Chief Information Security officer - Infrastructure and Security Engineer
+    LGO https://lgo.group/
+
+Construction et sécurisation du premier exchange institutionnel Bitcoin européen.
+Approx. 500.000.000 équivalent dollars tradés sur la plate-forme à février 2020.
+Aucun incident majeur. _Funds are safe_.
+
+Définition et mise en place de la politique de sécurité, pour l'entreprise, la
+plate-forme de trading et la gestion des fonds. 
+
+> sécurité hardware, pentest, bug-bounty, sensibilisation, évaluation des risques,
+> organisation des revues de sécurité, accompagnement pour les réponses au régulateur.
+
+Construction d'une plate-forme d'échange haute-performance (plusieurs millions d'ordres
+par secondes), résiliente et sûre. Objectif : aucune intervention humaine en production.
+Gestion automatisée des pannes (agrandissement disque, redémarrage de service, de machine).
+Mise en place d'un accord d'astreinte (au cas où).
+Infrastructure as code. Développement guidé par les tests.
+
+> role-unit, bash_unit, ansible, packer, terraform, consul, nomad, vault, Google Cloud Engine
+> aeron cluster, raft.
+
+### Juillet 2014 – Mai 2018 : Responsable de centre de compétence plate-forme web
     Orange Business Services — Orange Applications for Business
 
 Management fonctionnel et hiérarchique, gestion du recrutement et des
