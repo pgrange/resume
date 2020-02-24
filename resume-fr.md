@@ -1,7 +1,7 @@
 Pascal Grange
 =============
 
-Management agile d'experts technique
+Faire de son mieux, progresser et accépter que ce qui arrive est la seule chose qui pouvait arriver
 
 > <email> phone number \
 > postal address
