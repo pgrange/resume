@@ -172,6 +172,8 @@ Autres projets :
 Formation
 ---------
 
+2019 — FunAr architectures fonctionnelles par la pratique — https://funar.pankzsoft.com/
+
 2016 — LEAN et Excellence Opérationnelle — CUBIK Partners
 
 2015 — Certifié *ethical hacker* — EC-Council — Sysdream
