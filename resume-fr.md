@@ -21,21 +21,13 @@ Responsable de plusieurs projets *open-source* dont :
 * SOAP client/server API for Java until SOAP is deprecated —
   [http://bit.ly/soapdust](http://bit.ly/soapdust)
 
-Contribution sur divers projets open-source dont :
-
-* ansible — prise en charge de fichiers *spéciaux* dans un conteneur docker —
-  [http://bit.ly/ansible17405](http://bit.ly/ansible17405)
-
-Co-traducteur de *The Java Programming Language*,
-K. Arnolds, J. Gosling et D. Holmes, *Addison-Wesley Publishing Company*, 2000
-
 Anglais : rédaction d'ouvrages techniques, présentations en conférence,
 conversations clients
 
 Expérience professionnelle
 --------------------------
 
-### Depuis mars 2018 : Chief Information Security officer - Infrastructure and Security Engineer
+### Depuis mars 2018 : Chief Information Security officer - Infrastructure Engineer
     LGO https://lgo.group/
 
 Construction et sécurisation du premier exchange institutionnel Bitcoin européen.
@@ -144,7 +136,6 @@ d'Orange :
 
 * Accompagnement du client pour le recueil des besoins, rédaction de la
   proposition commerciale
-* Conception et développement du service en voiceXML
 * Mise en place de spécifications exécutables (plus de 3500 assertions)
 * Conception et développement d'une bibliothèque javascript pour la construction
   de trames STUR pour le *Réseau Intelligent*
@@ -158,11 +149,6 @@ d'Orange :
 
 * Introduction du développement guidé par les tests au sein de l'équipe
 * Conception et développement d'un outil de test de recette automatisé
-
-Autres projets :
-
-* Développement javascript/jquery/junit pour divers services web
-* Développement java pour plate-forme SMS
 
 ### Septembre 1999 — Août 2005 : Enseignant dans le supérieur
     ENSEIRB — Université Bordeaux 1 — IUT Bordeaux 1
