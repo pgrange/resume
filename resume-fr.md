@@ -48,7 +48,7 @@ plate-forme de trading et la gestion des fonds.
 > sécurité hardware, pentest, bug-bounty, sensibilisation, évaluation des risques,
 > organisation des revues de sécurité, accompagnement pour les réponses au régulateur.
 
-### Juillet 2014 – Mai 2018 : Responsable de centre de compétence plate-forme web
+### Octobre 2011 – Mai 2018 : Responsable de plusieurs équipes web, vocal et NFC
     Orange Business Services — Orange Applications for Business
 
 Management fonctionnel et hiérarchique, gestion du recrutement et des
@@ -83,19 +83,8 @@ plusieurs plate-formes client :
 > équipements cryptographiques HSM ncipher\
 > communication écrite et orale en anglais
 
-
-### Octobre 2011 – Juin 2014 : Manager Build plate-formes vocales et sans contact
-
-    Orange Business Services — Multimedia Business Services
-
-Management, gestion du recrutement et des compétences d'une équipe de
-quatre ingénieurs système et réseau
-
-> recrutement de l'équipe,
-> formalisation des standards de travail
-
 Responsable de la construction puis de la qualité de service et de la sécurité
-en production d'une infrastructure de paiement sans contact sur mobile
+en production d'une infrastructure de paiement NFC sur mobile
 
 > certification Mastercard,
 > HSM payshield,
