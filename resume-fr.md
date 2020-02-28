@@ -1,7 +1,7 @@
 Pascal Grange
 =============
 
-Faire de son mieux, progresser et accépter que ce qui arrive est la seule chose qui pouvait arriver
+Ce qui arrive est la seule chose qui pouvait arriver. Faire de son mieux. Progresser.
 
 > <email> phone number \
 > postal address
