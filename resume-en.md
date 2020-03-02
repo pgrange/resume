@@ -66,8 +66,10 @@ Collaboration with internal or client development teams (up to 70 people).
 Frequent management of security audits, formalization of responses and follow-up of the
 countermeasures when needed.
 
+<p style="break-before: page;">
 In charge of designing, costing and building several customer platforms.
 Responsible for their quality of service, security and profitability for the company:
+</p>
 
 * multi-country web authentication platform using smartphone — *Mobile Connect*
 * shared cryptography service — *Hardware Security Module as a Service*
