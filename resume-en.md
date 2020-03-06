@@ -8,7 +8,7 @@ Whatever happens is the only thing that could have. Do your best. Improve.
 
 ---
 
-Regularly attend and sometime speaks in agile software related conferences including (in french):
+Regularly attend and sometimes speaks in agile software related conferences including (in french):
 
 * *à la chasse aux faux semblants* — [http://youtu.be/SABiM46u5_k](http://youtu.be/SABiM46u5_k)
 * *développement guidé par les tests de rôles ansible* — [http://bit.ly/ansibletdd](http://bit.ly/ansibletdd)
@@ -32,7 +32,7 @@ Building and securing the leading institutional Bitcoin exchange in Europe.
 Approx. $500.000.000 equivalent traded on the platform until february 2020.
 No major incident. _Funds are safu_.
 
-High performance (target several milliions orders per seconds).
+High performance (target several millions orders per seconds).
 Test driven infrastructure as code.
 Automated failure management (disk expansion, service restart, machine restart).
 Implementation of an on-call contract (just in case).
@@ -103,7 +103,7 @@ team leadership, project management and writing of commercial offers.
 
 * Design the communication protocol between card readers and SIM card embeded software
 * Coordination with Gunnebo, the manufacturer in charge of physical protection of the building
-* Development of the SIM card embedded software
+* Development of the SIM card embeded software
 * Partner search and subcontractor management for the J2ME midlet development
 
 > javacard, NFC, SIM, OTA,
