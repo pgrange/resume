@@ -25,7 +25,7 @@ English: fluent / French: native
 Professional Background
 -----------------------
 
-### March 2018 – present: Chief Information Security officer - Infrastructure Engineer
+### March 2018 – May 2020: Chief Information Security officer - Infrastructure Engineer
     LGO https://lgo.group/
 
 Building and securing the leading institutional Bitcoin exchange in Europe.

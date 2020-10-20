@@ -27,7 +27,7 @@ conversations clients
 Expérience professionnelle
 --------------------------
 
-### Depuis mars 2018 : Chief Information Security officer - Infrastructure Engineer
+### Mars 2018 – Mai 2020 : Chief Information Security officer - Infrastructure Engineer
     LGO https://lgo.group/
 
 Construction et sécurisation du premier exchange institutionnel Bitcoin européen.
