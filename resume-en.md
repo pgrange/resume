@@ -20,19 +20,30 @@ Maintain or contribute to several open-source projects, including:
 * SOAP client/server API for Java until SOAP is deprecated —
   [http://bit.ly/soapdust](http://bit.ly/soapdust)
 
-English: fluent / French: native
+English: fluent / French: native / German: some basics and willing to learn more
 
 Professional Background
 -----------------------
 
+### May 2020 - present: Senior Software Engineer
+    Sinch https://sinch.com
+
+Expanding a lacal (France) Software as a Service product to a global worlwide solution. Taking into account privacy and local regulations, security and cost of ownership. Ensuring software teams autonomy by progressive and supported change. Moving from a baremetal legacy solution to the cloud to achieve this.
+
+> AWS, terraform, Cloud Development Kit, Python
+
+Implementing 24/7 on-call duty contracts to cover all timezones. Fighting against alert fatigue and identifying key critical alarms. Organize and facilitate post-incident reviews, gathering all people involved from software engineers to customer satisfaction managers to learn together, improve people skills and the system.
+
+> Problem Solving, facilitation, metrics, prometheus, ops'genie
+
 ### March 2018 – May 2020: Chief Information Security officer - Infrastructure Engineer
     LGO https://lgo.group/
 
-Building and securing the leading institutional Bitcoin exchange in Europe.
+Building and securing the leading (at the time) institutional Bitcoin exchange in Europe.
 Approx. $500.000.000 equivalent traded on the platform until february 2020.
 No major incident. _Funds are safu_.
 
-High performance (target several millions orders per seconds).
+High performance (target several millions orders per second).
 Test driven infrastructure as code.
 Automated failure management (disk expansion, service restart, machine restart).
 Implementation of an on-call contract (just in case).
@@ -41,7 +52,7 @@ Implementation of an on-call contract (just in case).
 > aeron cluster, raft
 
 In charge of writing and implementing the security policy for the company, the
-trading platform and fund management.
+trading platform and funds management.
 
 > hardware security, pentest, bug-bounty, training, risk assessment,
 > implementation of security reviews, support to respond to regulators
@@ -127,9 +138,10 @@ team leadership, project management and writing of commercial offers.
 ### September 1999 — August 2005 : Teacher in higher education
     ENSEIRB — Université Bordeaux 1 — IUT Bordeaux 1
 
-
 Education/training
 ------------------
+
+2022 - Strategic Domain Driven Designa - [Maxime Sanglan-Charlier](https://training.palo-it.com/formations/7/le-domain-driven-design-strategique-ddd)
 
 2019 — FunAr functional architectures through practice — https://funar.pankzsoft.com/
 
