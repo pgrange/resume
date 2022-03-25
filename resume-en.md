@@ -10,15 +10,15 @@ Whatever happens is the only thing that could have. Do your best. Improve.
 
 Regularly attend and sometimes speaks in agile software related conferences including (in french):
 
-* *à la chasse aux faux semblants* — [http://youtu.be/SABiM46u5_k](http://youtu.be/SABiM46u5_k)
-* *développement guidé par les tests de rôles ansible* — https://lucpasc.gitlab.io/presentation/
+* *à la chasse aux faux semblants* — [https://bit.ly/hunting_fails](https://bit.ly/hunting_fails)
+* *développement guidé par les tests de rôles ansible* — [https://bit.ly/tdd_ansible](https://bit.ly/tdd_ansible)
 
 Maintain or contribute to several open-source projects, including:
 
 * bash unit testing enterprise edition framework for professionals —
-  [http://bit.ly/bash_unit](http://bit.ly/bash_unit)
+  [https://bit.ly/bash-unit](https://bit.ly/bash-unit)
 * SOAP client/server API for Java until SOAP is deprecated —
-  [http://bit.ly/soapdust](http://bit.ly/soapdust)
+  [https://bit.ly/soap-dust](https://bit.ly/soap-dust)
 
 English: fluent / French: native / German: some basics and willing to learn more
 
@@ -135,9 +135,9 @@ team leadership, project management and writing of commercial offers.
 Education/training
 ------------------
 
-2022 — Strategic Domain Driven Designa - [Maxime Sanglan-Charlier](https://training.palo-it.com/formations/7/le-domain-driven-design-strategique-ddd)
+2022 — Strategic Domain Driven Design - [Maxime Sanglan-Charlier](https://bit.ly/ddd-training)
 
-2019 — FunAr functional architectures through practice — https://funar.pankzsoft.com/
+2019 — FunAr functional architectures through practice — [Arnaud Bailly et Frederic Merizen](https://bit.ly/FunAr)
 
 2016 — LEAN et Excellence Opérationnelle — CUBIK Partners
 
