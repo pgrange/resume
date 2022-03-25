@@ -11,7 +11,7 @@ Whatever happens is the only thing that could have. Do your best. Improve.
 Regularly attend and sometimes speaks in agile software related conferences including (in french):
 
 * *à la chasse aux faux semblants* — [http://youtu.be/SABiM46u5_k](http://youtu.be/SABiM46u5_k)
-* *développement guidé par les tests de rôles ansible* — [http://bit.ly/ansibletdd](http://bit.ly/ansibletdd)
+* *développement guidé par les tests de rôles ansible* — https://lucpasc.gitlab.io/presentation/
 
 Maintain or contribute to several open-source projects, including:
 
@@ -28,13 +28,13 @@ Professional Background
 ### May 2020 - present: Senior Software Engineer
     Sinch https://sinch.com
 
-Expanding a lacal (France) Software as a Service product to a global worlwide solution. Taking into account privacy and local regulations, security and cost of ownership. Ensuring software teams autonomy by progressive and supported change. Moving from a baremetal legacy solution to the cloud to achieve this.
+Expanding a local (France) Software as a Service product to a global worlwide solution. Taking into account privacy and local regulations, security and cost of ownership. Ensuring software teams autonomy by progressive and supported change. Moving from a baremetal legacy solution to the cloud to achieve this.
 
-> AWS, terraform, Cloud Development Kit, Python
+> AWS, terraform, Cloud Development Kit, prometheus, ops'genie, Python
 
-Implementing 24/7 on-call duty contracts to cover all timezones. Fighting against alert fatigue and identifying key critical alarms. Organize and facilitate post-incident reviews, gathering all people involved from software engineers to customer satisfaction managers to learn together, improve people skills and the system.
+Implementing 24/7 on-call duty contract to cover all timezones. Fighting against alert fatigue, identifying key critical alarms. Facilitate post-incident reviews.
 
-> Problem Solving, facilitation, metrics, prometheus, ops'genie
+> Problem Solving, facilitation, metrics, learning together
 
 ### March 2018 – May 2020: Chief Information Security officer - Infrastructure Engineer
     LGO https://lgo.group/
@@ -55,16 +55,15 @@ In charge of writing and implementing the security policy for the company, the
 trading platform and funds management.
 
 > hardware security, pentest, bug-bounty, training, risk assessment,
-> implementation of security reviews, support to respond to regulators
+> implementation of security reviews
 
 ### October 2011 – May 2018 : Manager of expert teams in web, telephony and NFC
     Orange Business Services — Orange Applications for Business
 
-Management of a team of five systems and network engineers and a project manager.
-In charge of recruitment.
+Management of a team of five systems and network engineers and one project manager.
 
 > agile software development, lean-thinking, standards, technical sharing workshops, facilitation\
-> skills mapping, one-on-one support
+> skills mapping, one-on-one support, recruitment
 
 Supporting change to evolve from a culture where system administration is performed
 *manually* to a *devops* and *infrastructure as code* culture.
@@ -72,15 +71,13 @@ Supporting change to evolve from a culture where system administration is perfor
 > ansible, docker, test driven software development, git, gitlab-ci,
 > pair-programming, mob-programming
 
-Collaboration with internal or client development teams (up to 70 people).
-
 Frequent management of security audits, formalization of responses and follow-up of the
 countermeasures when needed.
 
-<p style="break-before: page;">
+<!-- p style="break-before: page;" -->
 In charge of designing, costing and building several customer platforms.
 Responsible for their quality of service, security and profitability for the company:
-</p>
+<!-- /p -->
 
 * multi-country web authentication platform using smartphone — *Mobile Connect*
 * shared cryptography service — *Hardware Security Module as a Service*
@@ -112,10 +109,8 @@ team leadership, project management and writing of commercial offers.
 
 2011 — NFC access control for Orange corporate headquarters:
 
-* Design the communication protocol between card readers and SIM card embeded software
-* Coordination with Gunnebo, the manufacturer in charge of physical protection of the building
+* Design of the communication protocol between card readers and SIM card embeded software
 * Development of the SIM card embeded software
-* Partner search and subcontractor management for the J2ME midlet development
 
 > javacard, NFC, SIM, OTA,
 > test driven development\
@@ -124,8 +119,7 @@ team leadership, project management and writing of commercial offers.
 2010 — natural language automatic phone reception (more that 100 000 calls a day):
 
 * Implementation of executable specifications (more than 3500 assertions)
-* Design and implementation of a javascript library to build STUR frames for phone network
-* Supervision of an internship to develop a test oriented voiceXML interpreter: [http://bit.ly/cudlvxml](http://bit.ly/cudlvxml)
+* Supervision of an internship to develop a test oriented voiceXML interpreter
 
 > Java, Javascript, python, 
 > Voice XML, FitNesse
@@ -141,7 +135,7 @@ team leadership, project management and writing of commercial offers.
 Education/training
 ------------------
 
-2022 - Strategic Domain Driven Designa - [Maxime Sanglan-Charlier](https://training.palo-it.com/formations/7/le-domain-driven-design-strategique-ddd)
+2022 — Strategic Domain Driven Designa - [Maxime Sanglan-Charlier](https://training.palo-it.com/formations/7/le-domain-driven-design-strategique-ddd)
 
 2019 — FunAr functional architectures through practice — https://funar.pankzsoft.com/
 
