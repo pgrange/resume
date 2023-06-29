@@ -1,7 +1,7 @@
 Pascal Grange
 =============
 
-Whatever happens is the only thing that could have. Do your best. Improve.
+Whatever happens is the only thing that could have. Do your best. Improve. Extreme Programmer.
 
 > <email> phone number \
 > postal address
@@ -25,7 +25,16 @@ English: fluent / French: native / German: some basics and willing to learn more
 Professional Background
 -----------------------
 
-### May 2020 - present: Senior Software Engineer
+### September 2022 - present: Senior Software Engineer - Hydra
+
+    IOG https://iohk.io
+
+Developing [Hydra](http://github.com/input-output-hk/hydra/), the layer 2 scalability solution for [Cardano](https://cardano.org): increase transaction speed through low latency and high throughput and minimize transaction cost.
+
+> Cardano blockchain, state channels, security, Open Source, Ensemble Programming, Haskell
+
+### May 2020 - August 2022: Senior Software Engineer
+
     Sinch https://sinch.com
 
 Expanding a local (France) Software as a Service product to a global worlwide solution. Taking into account privacy and local regulations, security and cost of ownership. Ensuring software teams autonomy by progressive and supported change. Moving from a baremetal legacy solution to the cloud to achieve this.
@@ -37,11 +46,12 @@ Implementing 24/7 on-call duty contract to cover all timezones. Fighting against
 > Problem Solving, facilitation, metrics, learning together
 
 ### March 2018 – May 2020: Chief Information Security officer - Infrastructure Engineer
+
     LGO https://lgo.group/
 
 Building and securing the leading (at the time) institutional Bitcoin exchange in Europe.
 Approx. $500.000.000 equivalent traded on the platform until february 2020.
-No major incident. _Funds are safu_.
+No major incident. *Funds are safu*.
 
 High performance (target several millions orders per second).
 Test driven infrastructure as code.
@@ -58,6 +68,7 @@ trading platform and funds management.
 > implementation of security reviews
 
 ### October 2011 – May 2018 : Manager of expert teams in web, telephony and NFC
+
     Orange Business Services — Orange Applications for Business
 
 Management of a team of five systems and network engineers and one project manager.
@@ -100,6 +111,7 @@ In charge of a telephony platform with active replication over three distinct ge
 > puppet
 
 ### November 2005 — September 2011 : Software Developer
+
     Orange Business Services — CVF
 
 Test Driven Development;
@@ -121,15 +133,16 @@ team leadership, project management and writing of commercial offers.
 * Implementation of executable specifications (more than 3500 assertions)
 * Supervision of an internship to develop a test oriented voiceXML interpreter
 
-> Java, Javascript, python, 
+> Java, Javascript, python,
 > Voice XML, FitNesse
 
 2005-2006 — Video portal for mobile phones:
 
-* Introducing the team to test-driven development 
+* Introducing the team to test-driven development
 * Design and implementation of an automated acceptance testing tool
 
 ### September 1999 — August 2005 : Teacher in higher education
+
     ENSEIRB — Université Bordeaux 1 — IUT Bordeaux 1
 
 Education/training
