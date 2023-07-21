@@ -58,8 +58,7 @@ Test driven infrastructure as code.
 Automated failure management (disk expansion, service restart, machine restart).
 Implementation of an on-call contract (just in case).
 
-> role-unit, bash_unit, ansible, packer, terraform, consul, nomad, vault, Google Cloud Engine\
-> aeron cluster, raft
+> role-unit, bash_unit, ansible, packer, terraform, consul, nomad, vault, GCP, aeron cluster, raft
 
 In charge of writing and implementing the security policy for the company, the
 trading platform and funds management.
@@ -73,8 +72,8 @@ trading platform and funds management.
 
 Management of a team of five systems and network engineers and one project manager.
 
-> agile software development, lean-thinking, standards, technical sharing workshops, facilitation\
-> skills mapping, one-on-one support, recruitment
+> agile software development, lean-thinking, standards, technical sharing workshops,
+> recruitment
 
 Supporting change to evolve from a culture where system administration is performed
 *manually* to a *devops* and *infrastructure as code* culture.
@@ -94,8 +93,8 @@ Responsible for their quality of service, security and profitability for the com
 * shared cryptography service — *Hardware Security Module as a Service*
 * e-commerce website — client annual income over 150 M€
 
-> debian, ha-proxy, varnish, apache, tomcat, hybris, mysql, oracle\
-> continuous deliver, automation of security patches,
+> debian, ha-proxy, varnish,
+> automation of security patches,
 > ncipher Hardware Security Modules
 
 In charge of building a mobile NFC payment platform. Responsible for its quality of service and security.
@@ -131,7 +130,6 @@ team leadership, project management and writing of commercial offers.
 2010 — natural language automatic phone reception (more that 100 000 calls a day):
 
 * Implementation of executable specifications (more than 3500 assertions)
-* Supervision of an internship to develop a test oriented voiceXML interpreter
 
 > Java, Javascript, python,
 > Voice XML, FitNesse
@@ -157,10 +155,6 @@ Education/training
 2015 — Certified *ethical hacker* — EC-Council — Sysdream
 
 2013 — Neuro-Linguistic Programming Technician — L'Institut de formation PNL
-
-2012 — Team Management — Orange campus
-
-2008 — Certified *Scrum master* — Pyxis
 
 2005 — Ph.D in computer science — *Systèmes distribués :
 transparence, masquage et outils associés*\
