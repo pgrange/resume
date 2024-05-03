@@ -1,5 +1,5 @@
-Pascal Grange
-=============
+Dr. Pascal Grange
+=================
 
 Whatever happens is the only thing that could have. Do your best. Improve. Extreme Programmer.
 
@@ -24,6 +24,15 @@ English: fluent / French: native / German: some basics and willing to learn more
 
 Professional Background
 -----------------------
+
+### December 2023 - present: Founder
+
+    21research
+
+Building, securing and hosting a Bitcoin Lightning node. Exploring the development of a [Lightning Hardware Wallet](https://delvingbitcoin.org/t/lightning-hardware-wallet/555). Developping LN paid services.
+
+> Bitcoin, Lightning, eclair, Phoenix, Ledger, Scala, Kotlin, security, operations
+
 
 ### September 2022 - present: Senior Software Engineer - Hydra
 
