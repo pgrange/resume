@@ -49,6 +49,11 @@ OK=[✅]
 KO=[❌]
 WARN=[⚠️]
 
+
+CONTAINER_NAME=gotenberg
+CHECK_CONTAINER_RUNNING := docker ps --filter "name=$(CONTAINER_NAME)" -q
+START_CONTAINER := $(shell if [ -z "$$($(CHECK_CONTAINER_RUNNING))" ]; then docker run -p 3000:3000 --rm -d --name $(CONTAINER_NAME) gotenberg/gotenberg:8; fi)
+
 .PHONY: help
 help:
 	@echo -e "$(OK_COLOR)                      $(BANNER)$(NO_COLOR)"
@@ -78,6 +83,7 @@ clean: ## Cleanup repository
 	@find . -name "index.html" | xargs rm -fr {}
 	@find . -name "*.pdf" | xargs rm -fr {}
 	@find . -name "resume-*.html" | xargs rm -fr {}
+	-@docker stop $(CONTAINER_NAME)
 
 .PHONY: html
 html: guard-COUNTRY ## Make the HTML version (COUNTRY=xx)
@@ -89,10 +95,9 @@ html: guard-COUNTRY ## Make the HTML version (COUNTRY=xx)
 
 .PHONY: gotenberg
 gotenberg: ## Run Gotenberg using Docker
-	@docker run --rm -p 3000:3000 gotenberg/gotenberg:7.8.0
+	@$(START_CONTAINER)
 
-.PHONY: pdf
-pdf: guard-COUNTRY html ## Make the PDF version (COUNTRY=xx)
+pdf: guard-COUNTRY html gotenberg
 	@echo -e "$(OK_COLOR)[$(APP)] Build PDF resume: $(COUNTRY)$(NO_COLOR)"
 	@cp resume-$(COUNTRY).html index.html \
 		&& curl -s \
