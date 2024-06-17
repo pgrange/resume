@@ -34,7 +34,7 @@ Building, securing and hosting a Bitcoin Lightning node. Exploring the developme
 > Bitcoin, Lightning, eclair, Phoenix, Ledger, Scala, Kotlin, security, operations
 
 
-### September 2022 - present: Senior Software Engineer - Hydra
+### September 2022 - September 2023: Senior Software Engineer - Hydra
 
     IOG https://iohk.io
 
