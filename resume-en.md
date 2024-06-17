@@ -103,14 +103,14 @@ Responsible for their quality of service, security and profitability for the com
 
 > Mastercard certification,
 > payshield Hardware Security Modules,
+> ncipher Hardware Security Modules \
+> OMS Interactive Voice Response,
 > mobile carrier networks interconnection
 
 > debian, redhat, ha-proxy, varnish,
 > apache, tomcat, mysql,
 > automation of security patches,
-> puppet\
-> ncipher Hardware Security Modules,
-> OMS Interactive Voice Response
+> puppet
 
 
 ### November 2005 — September 2011 : Software Developer
