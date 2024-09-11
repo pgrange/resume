@@ -1,10 +1,12 @@
 Dr. Pascal Grange
 =================
 
-Whatever happens is the only thing that could have. Do your best. Improve. Extreme Programmer.
+Senior Backend Engineer - Distributed Systems -- Extreme Programmer
 
+<!--
 > <email> phone number \
 > postal address
+-->
 
 ---
 
