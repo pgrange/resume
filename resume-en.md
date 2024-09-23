@@ -1,7 +1,7 @@
-Dr. Pascal Grange
-=================
+Pascal Grange, PhD
+==================
 
-Senior Backend Engineer - Distributed Systems -- Extreme Programmer
+Engineering Manager - Senior Backend Engineer - Extreme Programmer
 
 <!--
 > <email> phone number \
@@ -10,123 +10,102 @@ Senior Backend Engineer - Distributed Systems -- Extreme Programmer
 
 ---
 
-Regularly attend and sometimes speaks in agile software related conferences including (in french):
+I lead teams with a lean management approach, focusing on continuous improvement, fostering people's growth, and promoting a customer-centric culture that drives performance and sustainable growth. I have experience in international and multi-cultural teams.
 
-* *à la chasse aux faux semblants* — [https://bit.ly/hunting_fails](https://bit.ly/hunting_fails)
+I regularly attend and occasionally speak in agile software-related conferences including (in French):
+
+* *Hunting for false pretenses* — [https://bit.ly/hunting_fails](https://bit.ly/hunting_fails)
 * *Test Driven Development of Ansible roles* — [https://bit.ly/tdd_ansible](https://bit.ly/tdd_ansible)
 
-Maintain or contribute to several open-source projects, including:
+I maintain and contribute to several open-source projects, including:
 
-* bash unit testing enterprise edition framework for professionals —
-  [https://bit.ly/bash-unit](https://bit.ly/bash-unit)
+* bash unit testing enterprise edition framework for professionals (596 stars) —
+  [https://github.com/pgrange/bash_unit](https://github.com/pgrange/bash_unit)
 
-English: fluent / French: native / German: some basics and willing to learn more
+English: fluent / French: native / German: basic knowledge
 
 Professional Background
 -----------------------
 
 ### December 2023 - present: Founder
 
-    21research
+    Keysafe
 
-Building, securing and hosting a Bitcoin Lightning node. Exploring the development of a [Lightning Hardware Wallet](https://delvingbitcoin.org/t/lightning-hardware-wallet/555). Developping LN paid services.
+I design a privacy-preserving age verification platform. I conduct market research, engaging with stakeholders, and building a network through outreach and recommendations.
 
-> Bitcoin, Lightning, eclair, Phoenix, Ledger, Scala, Kotlin, security, operations
-
+> Blind Signatures, Cashu, Rust
 
 ### September 2022 - September 2023: Senior Software Engineer - Hydra
 
     IOG https://iohk.io
 
-Developing [Hydra](http://github.com/input-output-hk/hydra/), the layer 2 scalability solution for [Cardano](https://cardano.org): increase transaction speed through low latency and high throughput and minimize transaction cost.
+I contributed to the development of [Hydra](http://github.com/input-output-hk/hydra/), the layer 2 scalability solution for the [Cardano blockchain](https://cardano.org). I introduced organizational tools to enhance team collaboration and performance.
 
-> Cardano blockchain, state channels, security, Open Source, Ensemble Programming, Haskell
+> Ensemble Programming, Lean practices, Haskell, state channels, security, Open Source
 
 ### May 2020 - August 2022: Senior Software Engineer
 
     Sinch https://sinch.com
 
-Expanding a local SaaS product to a global worlwide solution. Migrating from baremetal to AWS. Handling local regulations, security and total cost of ownership. Ensuring software teams autonomy.
+I expanded a local SaaS product to a global solution, managing security, ensuring regulatory compliance, and reducing the total cost of ownership. I ensured the autonomy of software development teams.
+
+I implemented a 24/7 on-call duty contract to cover all timezones. I fought against alert fatigue, identifying key critical alarms. I introduced and facilitated post-incident reviews.
+
+> facilitation, metrics, learning together, Developer eXperience,
+> GDPR compliance, ISO-27001
 
 > AWS, terraform, Cloud Development Kit, prometheus, ops'genie, Python
 
-Implementing 24/7 on-call duty contract to cover all timezones. Fighting against alert fatigue, identifying key critical alarms. Facilitate post-incident reviews.
+<!-- p style="break-before: page;"></p -->
 
-> Problem Solving, facilitation, metrics, learning together
-
-### March 2018 – May 2020: Chief Information Security officer - Infrastructure Engineer
+### March 2018 – May 2020: Chief Information Security officer
 
     LGO https://lgo.group/
 
-Building and securing the leading (at the time) institutional Bitcoin exchange in Europe.
-Approx. $500.000.000 equivalent traded on the platform until february 2020.
-No major incident. *Funds are safu*.
+I built and secured Europe's leading institutional Bitcoin exchange at the time.
+Approx. $500.000.000 equivalent traded under my watch with no major incident.
 
-High performance (target several millions orders per second).
-Test driven infrastructure as code.
-Automated failure management (disk expansion, service restart, machine restart).
-Implementation of an on-call contract (just in case).
+I developed and implemented the company’s security policy, conducted organization-wide
+training, and involved all profiles in maintaining a secure environment and ensuring compliance.
+I designed the 24/7 on-call duty contract.
+
+> compliance, pentest, bug-bounty, risk assessment,
+> SEC, NYDFS, ACPR
+
+> High performance, Test driven infrastructure as code,
+> Automated failure management
 
 > role-unit, bash_unit, ansible, packer, terraform, consul, nomad, vault, GCP, aeron cluster, raft
 
-In charge of writing and implementing the security policy for the company, the
-trading platform and funds management.
-
-> hardware security, pentest, bug-bounty, training, risk assessment,
-> implementation of security reviews
 
 ### October 2011 – May 2018 : Manager of expert teams in web, telephony and NFC
 
     Orange Business Services — Orange Applications for Business
 
-Management of a team of five systems and network engineers and one project manager.
-Supporting change to evolve from a culture where system administration is performed
-*manually* to a *devops* and *infrastructure as code* culture.
+I managed a team of engineers, driving the transformation from _everything is done manually_ to a DevOps and Infrastructure-as-Code culture.
 
-> agile software development, lean-thinking, standards, technical sharing workshops,
-> recruitment
+I led the development of a multi-country web authentication platform — *Mobile Connect*. I was in charge of a telephony platform processing more than 100,000 calls daily, with active replication across three geographical locations. I was accountable for the quality of service, security and profitability for the company.
 
-> ansible, docker, test driven software development, git, gitlab-ci,
+I frequently managed security audits, formalized responses and followed up on countermeasures when needed.
+
+> hiring, lean-management,
 > pair-programming, mob-programming
 
-Frequent management of security audits, formalization of responses and follow-up of the
-countermeasures when needed.
-
-<!-- p style="break-before: page;" -->
-In charge of designing, costing and building several customer platforms.
-Responsible for their quality of service, security and profitability for the company:
-<!-- /p -->
-
-* multi-country web authentication platform using smartphone — *Mobile Connect*
-* shared cryptography service — *Hardware Security Module as a Service*
-* e-commerce website — client annual income over 150 M€
-* NFC mobile payment platform
-* Telephony platform with active replication over three distinct geographical areas - 100 000 calls a day
-
 > Mastercard certification,
-> payshield Hardware Security Modules,
-> ncipher Hardware Security Modules \
+> payshield and ncipher Hardware Security Modules
+
 > OMS Interactive Voice Response,
 > mobile carrier networks interconnection
-
-> debian, redhat, ha-proxy, varnish,
-> apache, tomcat, mysql,
-> automation of security patches,
-> puppet
-
 
 ### November 2005 — September 2011 : Software Developer
 
     Orange Business Services — CVF
 
-Test Driven Development;
-frequent writing of executable specifications;
-building several continuous integration platforms;
-team leadership, project management and writing of commercial offers.
+Leading software development projects using test-driven development (TDD), executable specifications, and continuous integration (CI). Managing partnerships and subcontractors. Writing of commercial offers.
+
+> Scrum master, subcontractor management, partnership coordination
 
 > Java, Javacard, Javascript, python, NFC, SIM card, OTA, Voice XML, FitNesse
-
-> subcontractor management, partnership coordination
 
 ### September 1999 — August 2005 : Teacher in higher education
 
@@ -142,6 +121,8 @@ Education/training
 2016 — LEAN and Operational Excellence — CUBIK Partners
 
 2015 — Certified *ethical hacker* — EC-Council — Sysdream
+
+2012  — Team Management — Orange campus
 
 2013 — Neuro-Linguistic Programming Technician — L'Institut de formation PNL
 
