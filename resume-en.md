@@ -19,8 +19,9 @@ I regularly attend and occasionally speak in agile software-related conferences 
 
 I maintain and contribute to several open-source projects, including:
 
-* bash unit testing enterprise edition framework for professionals (596 stars) —
-  [https://github.com/pgrange/bash_unit](https://github.com/pgrange/bash_unit)
+* bash unit testing enterprise edition framework for professionals: [https://bit.ly/bash-unit](https://bit.ly/bash-unit)
+* risno (discontinued) real estate search engine (Javascript, Python, elasticsearch): [https://bit.ly/r1sno](https://bit.ly/r1sno)
+* soap-dust (discontinued) Java soap library (Java, xml, xslt): [https://bit.ly/soap-dust](https://bit.ly/soap-dust)
 
 English: fluent / French: native / German: basic knowledge
 
