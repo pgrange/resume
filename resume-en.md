@@ -12,7 +12,7 @@ Senior Backend Engineer - Distributed Systems -- Extreme Programmer
 
 Regularly attend and sometimes speaks in agile software related conferences including (in french):
 
-* *à la chasse aux faux semblants* — [https://bit.ly/hunting_fails](https://bit.ly/hunting_fails)
+* *Hunting for false pretenses* — [https://bit.ly/hunting_fails](https://bit.ly/hunting_fails)
 * *Test Driven Development of Ansible roles* — [https://bit.ly/tdd_ansible](https://bit.ly/tdd_ansible)
 
 Maintain or contribute to several open-source projects, including:
