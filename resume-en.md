@@ -115,7 +115,7 @@ Leading software development projects using test-driven development (TDD), execu
 Education/training
 ------------------
 
-2022 — Strategic Domain Driven Design - Maxime Sanglan-Charlier
+2022 — Strategic Domain Driven Design - [Maxime Sanglan-Charlier](https://bit.ly/ddd-tra1ning)
 
 2019 — FunAr functional architectures through practice — [Arnaud Bailly and Frederic Merizen](https://bit.ly/FunAr)
 
