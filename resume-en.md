@@ -1,5 +1,5 @@
-Dr. Pascal Grange
-=================
+Pascal Grange, PhD
+==================
 
 Senior Backend Engineer - Distributed Systems -- Extreme Programmer
 
