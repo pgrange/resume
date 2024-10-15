@@ -68,7 +68,7 @@ Test driven infrastructure as code.
 Automated failure management (disk expansion, service restart, machine restart).
 Implementation of an on-call contract (just in case).
 
-> role-unit, bash_unit, ansible, packer, terraform, consul, nomad, vault, GCP, aeron cluster, raft
+> ansible, packer, terraform, consul, nomad, vault, GCP, aeron cluster, raft, opentimestamps
 
 In charge of writing and implementing the security policy for the company, the
 trading platform and funds management.
