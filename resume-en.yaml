@@ -151,19 +151,19 @@ cv:
 design:
   theme: classic
   page:
-    size: us-letter
+    size: a4
     top_margin: 2cm
     bottom_margin: 2cm
     left_margin: 2cm
     right_margin: 2cm
-    show_page_numbering: true
-    show_last_updated_date: true
+    show_page_numbering: false
+    show_last_updated_date: false
   colors:
     text: rgb(0, 0, 0)
-    name: rgb(0, 79, 144)
-    connections: rgb(0, 79, 144)
-    section_titles: rgb(0, 79, 144)
-    links: rgb(0, 79, 144)
+    name: rgb(73, 119, 154)
+    connections: rgb(73, 119, 154)
+    section_titles: rgb(73, 119, 154)
+    links: rgb(0, 0, 0)
     last_updated_date_and_page_numbering: rgb(128, 128, 128)
   text:
     font_family: Source Sans 3
@@ -291,6 +291,6 @@ locale:
     - November
     - December
 rendercv_settings:
-  date: '2025-03-12'
+  date: '2025-03-26'
   render_command:
   bold_keywords: []
