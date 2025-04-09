@@ -57,7 +57,7 @@ cv:
         date:
         start_date: 2020-05
         end_date: 2022-08
-        location: Bordeaux, France
+        location: Remote / Bordeaux, France
         summary: Expanding a local SaaS product to a global worlwide solution
         highlights:
           - Migrating from baremetal to the cloud (AWS, Terraform, Packer, Ansible)
@@ -77,7 +77,7 @@ cv:
           - Building an architecture targeting several millions orders per second (Aeron Cluster, Java)
           - Test driven infrastructure as code (Terraform, Packer, Ansible, role-unit)
           - Automated failure management (GCloud, disk expansion, service restart, machine restart)
-          - Implementation of an on-call contract (just in case)
+          - Implementing 24/7 on-call duty contract to cover all timezones
 
       - company: Orange Business Services
         position: Manager of expert teams in web, telephony and NFC
@@ -111,7 +111,7 @@ cv:
           - building several continuous integration platforms (GitLab CI, Jenkins, Sonar, Cruise Control)
           - team leadership, project management and writing of commercial offers (Scrum Master)
 
-      - company: Univertié de Bordeaux, ENSEIRB
+      - company: Université de Bordeaux, ENSEIRB
         position: Teacher in higher education
         date:
         start_date: 1999-09
@@ -131,7 +131,7 @@ cv:
       - name: '[soap-dust](https://soap-dust.sourceforge.net)'
         summary: Java soap library (discontinued)
         highlights:
-          - SOAP client and server library, includeing test framework
+          - SOAP client and server library, including test framework
           - Fits within a single jar file, needing no external dependencies
 
     skills:
@@ -254,7 +254,7 @@ design:
       date_and_location_column_template: DATE
 locale:
   language: en
-  phone_number_format: national
+  phone_number_format: international
   page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
   last_updated_date_template: Last updated in TODAY
   date_template: MONTH_ABBREVIATION YEAR
