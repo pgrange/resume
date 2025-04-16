@@ -121,7 +121,7 @@ cv:
         highlights:
 
     projects:
-      - name: '[bash_unit](https://github.com/pgrange/bash_unit)'
+      - name: '[bash_unit](https://github.com/bash-unit/bash_unit)'
         summary: Unit testing framework for Bash
         highlights:
           - 600+ stars on GitHub, widely adopted in the community
